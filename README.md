@@ -1,6 +1,6 @@
 # Integer-To-Binary-Converter
 
-<h1>Summary</h1>
+<h2>Summary</h2>
 Python program to take in a user integer input and print onto the screen the binary representation of that number.
 
 <h2>Usage</h2>
